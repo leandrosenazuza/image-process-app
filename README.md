@@ -1,27 +1,20 @@
+
+Resumo:
+
+O seguinte projeto trata-se do Front-end de uma aplicação de processamento de imagem. Para rodar o projeto, basta seguir as instruções abaixo:
+
+Como rodar o projeto?
+
 # ImageProcessApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
+Foi usada a seguinte versão do Angular: version 15.1.3.
 
-## Development server
+## Instalar a aplicação
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Assim que clonar o projeto, dentro da pasta do mesmo execute o comando `npm i`
 
-## Code scaffolding
+## Rodar a aplicação
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Execute após isso `ng serve` para rodar o projeto. Ele será executado na porta: `http://localhost:4200/`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
